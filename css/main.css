@@ -5,6 +5,9 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+.logo {
+    width:100%;
+}
 .button {
     -webkit-touch-callout: none;
     -webkit-user-select: none;
