@@ -31,3 +31,7 @@ body {
 .button:hover {
     background-color: #ccc!important;
 }
+
+nav {
+    text-align:center;
+}
